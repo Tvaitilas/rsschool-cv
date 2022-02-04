@@ -1,5 +1,6 @@
 ## *Tomas Vaitilas*
 Junior Front-end programmer
+
 ***
 #### Contact Info:
 * [Linkedin](https://www.linkedin.com/in/tvaitilas/)
