@@ -1,4 +1,5 @@
 ## *Tomas Vaitilas*
+Junior Front-end programmer
 ***
 #### Contact Info:
 * [Linkedin](https://www.linkedin.com/in/tvaitilas/)
@@ -22,3 +23,17 @@
 #### Code examples:
 #### _Learning stage available at:_
 [Github](https://github.com/tvaitilas)
+
+***
+#### Education:
+* 2021 Baltic Institute of Technology (BIT),
+Front-end programmer, fundamental level
+* 2021 Vilnius CODING School, Web development
+* 1996-1998 Kaunas University of Technology, Master's degree, Quality Managment and QMS
+
+***
+#### Languages
+
+* _Lithuanian_ : native
+* _English_  : B2
+* _Russian_ : C1
