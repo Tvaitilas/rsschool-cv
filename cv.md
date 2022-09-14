@@ -1,5 +1,3 @@
-## _Testas_
-
 ## _Tomas Vaitilas_
 
 Junior Front-end programmer
