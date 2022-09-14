@@ -1,3 +1,1 @@
-# -rsschool-cv
-
-https://your-github-account.github.io/rsschool-cv/cv
+https://tvaitilas.github.io/rsschool-cv/cv
